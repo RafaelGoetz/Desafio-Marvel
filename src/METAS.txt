@@ -1,0 +1,17 @@
+//A página inicial deverá ter uma listagem dos personagens OK
+//A página inicial deverá ter uma paginação, de acordo com o número de personagens, e marcar qual a página atual em que está navegando OK
+//A página inicial deverá ter um filtro por nome do personagem OK
+//Ao passar o mouse sobre uma imagem, deverá aparece o nome do personagem OK
+//Ao clicar em alguma imagem, deverá ser exibido uma página de detalhe, usando o conceito de SPA OK
+//A página de detalhes deverá ter um botão de voltar OK
+//Caso o personagem não possuir uma descrição, exibir texto “Não informado” OK
+//Caso o personagem não possuir imagem, deverá exibir o logotipo da Marvel OK
+
+/*
+
+A API deverá ter uma rota de listagem, aceitando parâmetros de filtros e paginação
+A API deverá ter uma rota de detalhes, recebendo como parâmetro o id do personagem
+
+Todas as requisições (url, metodo, parametros e ip) devem ser salvas dentro de um array, através de um middleware para log
+A API deverá ter uma rota de log, onde deverá retornar o log de todas as requisições recebidas
+A API deverá utilizar a estrutura de MVC junto com as configurações do ES Lint*/

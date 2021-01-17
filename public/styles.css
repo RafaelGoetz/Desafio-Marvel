@@ -1,0 +1,37 @@
+
+.infoCard {
+    position: fixed;
+    top: 0px;
+    margin-top: 50px;
+}
+.margin-10 {
+    border-radius: 200px;
+    border: 2px solid black;
+    padding:0.5px;
+}
+.image{
+    cursor: pointer;
+}
+.distance {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.yellow-flag{
+    background-color: yellow;
+}
+.img-person{
+    margin-top: 5px;
+    margin-left:-5px;
+    height: 300px;
+}
+.name-person, .description-person, .text-person {
+    margin-top: 20px;
+    font-size: 16px;
+}
+.title-hq {
+    margin: 20px;
+    font-size: 20px;
+}
+.text-hq{
+    font-size: 10px;
+}
